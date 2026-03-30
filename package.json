@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "dev": "vite",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/itzzAdi22/GetOutPass/issues"
   },
-  "homepage": "https://github.com/itzzAdi22/GetOutPass#readme"
+  "homepage": "https://github.com/itzzAdi22/GetOutPass#readme",
+  "devDependencies": {
+    "vite": "^8.0.3"
+  }
 }
